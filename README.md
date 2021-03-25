@@ -2,8 +2,8 @@
 ## Every Projects Started with there purpose to solve business problems
 ## After that Understanding the dataset
 ## Followed By Data Wrangling & Data Cleasing
-## Then a Deep Exploratory Data Analysis using Python libraries
-## Handling NULL values using different methods
+## Then a Deep Exploratory Data Analysis done using Python libraries
+## Handling NULL values using different methods (like KNN Imputer or MICE)
 ## Outlier detection
 ## Feature Engineering & Feature Scaling
 ## Split the dataset into train & test set
